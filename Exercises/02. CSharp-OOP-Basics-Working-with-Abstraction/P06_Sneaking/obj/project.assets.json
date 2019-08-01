@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\P06_Sneaking.csproj",
+      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P06_Sneaking\\P06_Sneaking.csproj",
       "projectName": "P06_Sneaking",
-      "projectPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\P06_Sneaking.csproj",
+      "projectPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P06_Sneaking\\P06_Sneaking.csproj",
       "packagesPath": "C:\\Users\\ceck0z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P06_Sneaking\\obj\\",
+      "outputPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P06_Sneaking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P04_Hospital\\P04_Hospital.csproj",
+      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P04_Hospital\\P04_Hospital.csproj",
       "projectName": "P04_Hospital",
-      "projectPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P04_Hospital\\P04_Hospital.csproj",
+      "projectPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P04_Hospital\\P04_Hospital.csproj",
       "packagesPath": "C:\\Users\\ceck0z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P04_Hospital\\obj\\",
+      "outputPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P04_Hospital\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

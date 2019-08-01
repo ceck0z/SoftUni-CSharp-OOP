@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P07_FamilyTree\\P07_FamilyTree.csproj",
+      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P07_FamilyTree\\P07_FamilyTree.csproj",
       "projectName": "P07_FamilyTree",
-      "projectPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P07_FamilyTree\\P07_FamilyTree.csproj",
+      "projectPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P07_FamilyTree\\P07_FamilyTree.csproj",
       "packagesPath": "C:\\Users\\ceck0z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P07_FamilyTree\\obj\\",
+      "outputPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P07_FamilyTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

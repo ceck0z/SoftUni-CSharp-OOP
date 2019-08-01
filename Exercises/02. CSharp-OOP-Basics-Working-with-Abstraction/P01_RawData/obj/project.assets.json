@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\P01_RawData.csproj",
+      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P01_RawData\\P01_RawData.csproj",
       "projectName": "P01_RawData",
-      "projectPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\P01_RawData.csproj",
+      "projectPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P01_RawData\\P01_RawData.csproj",
       "packagesPath": "C:\\Users\\ceck0z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P01_RawData\\obj\\",
+      "outputPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P01_RawData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

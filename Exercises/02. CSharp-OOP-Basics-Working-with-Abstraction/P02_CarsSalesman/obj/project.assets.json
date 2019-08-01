@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P02_CarsSalesman\\P02_CarsSalesman.csproj",
+      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P02_CarsSalesman\\P02_CarsSalesman.csproj",
       "projectName": "P02_CarsSalesman",
-      "projectPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P02_CarsSalesman\\P02_CarsSalesman.csproj",
+      "projectPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P02_CarsSalesman\\P02_CarsSalesman.csproj",
       "packagesPath": "C:\\Users\\ceck0z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SoftUni C# OOP\\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\\P02_CarsSalesman\\obj\\",
+      "outputPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\02. CSharp-OOP-Basics-Working-with-Abstraction\\P02_CarsSalesman\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
