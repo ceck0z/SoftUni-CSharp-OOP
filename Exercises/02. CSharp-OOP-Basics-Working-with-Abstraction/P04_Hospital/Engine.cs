@@ -1,5 +1,4 @@
-﻿
-namespace P04_Hospital
+﻿namespace P04_Hospital
 {
     using System;
     using System.Collections.Generic;
@@ -10,11 +9,14 @@ namespace P04_Hospital
         private Dictionary<string, List<string>> doctors;
         private Dictionary<string, List<List<string>>> departments;
 
+        public Hospital hospital;
 
         public Engine()
         {
             this.doctors = new Dictionary<string, List<string>>();
             this.departments = new Dictionary<string, List<List<string>>>();
+
+            hospital = new Hospital();
         }
 
         public void run()
@@ -28,25 +30,12 @@ namespace P04_Hospital
                 var firstName = inputArgs[1];
                 var lastName = inputArgs[2];
                 var patient = inputArgs[3];
-                var fullName = firstName + lastName;
+                var fullName = firstName + " " + lastName;
 
-                addDoctor(fullName);
-
-                addDepartment(departament);
-
-                // isFree = imaMqsto
-                bool isFree = departments[departament]
-                    .SelectMany(x => x) // - достъпва дъщерните листове в лист 
-                    .Count() < 60;
-
-                if (isFree)
-                {
-
-                    doctors[fullName].Add(patient);
-
-                    addPatientToRoom(departament, patient);
-                }
-
+                this.hospital.AddDoctor(firstName, lastName);
+                this.hospital.AddDepartment(departament);
+                this.hospital.AddPatient(fullName, departament, patient);
+                
                 command = Console.ReadLine();
             }
 
@@ -54,54 +43,43 @@ namespace P04_Hospital
 
             while (command != "End")
             {
-                string[] args = command.Split();
+                string[] args = command.Split(' ',StringSplitOptions.RemoveEmptyEntries);
 
                 if (args.Length == 1)
                 {
                     string departmentName = args[0];
 
-                    var allPatientsInDepartment = departments[departmentName]
-                        .Where(x => x.Count > 0)
-                        .SelectMany(x => x)
-                        .ToArray();
+                    Department department = this.hospital.departments.FirstOrDefault(x => x.Name == departmentName);
 
-                    Console.WriteLine(string.Join(Environment.NewLine, allPatientsInDepartment ));
+                    Console.WriteLine(department);                   
                 }
                 else if (args.Length == 2)
                 {
-                    bool isRoom = int.TryParse(args[1], out int room);
+                    bool isRoom = int.TryParse(args[1], out int targetRoom);
 
                     if (isRoom)
                     {
-
                         string departmentName = args[0];
 
-                        var allPatientInRoom = departments[args[0]][room - 1]
-                           .OrderBy(x => x)
-                           .ToArray();
+                        Room room = this.hospital.departments.FirstOrDefault(x => x.Name == departmentName).rooms[targetRoom - 1];
 
-                        Console.WriteLine(string.Join(Environment.NewLine, allPatientInRoom));
-
+                        Console.WriteLine(room);
                     }
                     else
                     {
 
-                        string fullName = args[0] + args[1];
-                        string departmentName = args[0];
+                        string fullName = args[0] + " " + args[1];
 
-                        var allPatientOfDoctor = doctors[fullName]
-                            .OrderBy(x => x)
-                            .ToArray();
-
-                        Console.WriteLine(string.Join(Environment.NewLine, allPatientOfDoctor));
+                        Doctor doctor = this.hospital.Doctors.FirstOrDefault(x => x.FullName == fullName);
+                        Console.WriteLine(doctor);
                     }
 
-                    
+
                 }
                 command = Console.ReadLine();
             }
         }
-
+        
         private void addPatientToRoom(string departament, string patient)
         {
             int room = 0;
