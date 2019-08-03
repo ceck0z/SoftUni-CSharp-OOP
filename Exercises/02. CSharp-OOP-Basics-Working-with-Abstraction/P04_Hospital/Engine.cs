@@ -19,7 +19,7 @@
             hospital = new Hospital();
         }
 
-        public void run()
+        public void Run()
         {
             string command = Console.ReadLine();
 

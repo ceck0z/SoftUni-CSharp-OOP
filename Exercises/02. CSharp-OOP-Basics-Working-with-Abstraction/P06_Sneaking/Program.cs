@@ -8,6 +8,7 @@ namespace P06_Sneaking
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
+
             room = new char[n][];
 
             for (int row = 0; row < n; row++)
@@ -21,7 +22,9 @@ namespace P06_Sneaking
             }
 
             var moves = Console.ReadLine().ToCharArray();
+
             int[] samPosition = new int[2];
+
             for (int row = 0; row < room.Length; row++)
             {
                 for (int col = 0; col < room[row].Length; col++)
