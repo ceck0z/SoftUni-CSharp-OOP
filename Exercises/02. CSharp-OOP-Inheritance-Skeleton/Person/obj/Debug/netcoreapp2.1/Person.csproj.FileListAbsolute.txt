@@ -8,3 +8,4 @@ D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\Person\
 D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
 D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.dll
 D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.pdb
+D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\Person\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache

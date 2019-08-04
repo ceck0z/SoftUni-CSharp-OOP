@@ -8,3 +8,4 @@ D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\Players
 D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.AssemblyInfo.cs
 D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.dll
 D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.pdb
+D:\Projects\SoftUni C# OOP\Exercises\02. CSharp-OOP-Inheritance-Skeleton\PlayersAndMonsters\obj\Debug\netcoreapp2.1\PlayersAndMonsters.csprojAssemblyReference.cache
