@@ -9,7 +9,7 @@
 
         public override string MakeNoise()
         {
-            return "Bark!";
+            return "Woof!";
         }
 
     }

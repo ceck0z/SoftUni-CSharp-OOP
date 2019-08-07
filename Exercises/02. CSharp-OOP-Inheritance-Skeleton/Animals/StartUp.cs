@@ -9,33 +9,45 @@
     {
         public static void Main(string[] args)
         {
-            Dog dog = new Dog("Goshi", 1, "Male");
+            string command = Console.ReadLine();
+            
+            while (command != "Beast!")
+            {
+                string[] animalInformation = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
-            StringBuilder sb = new StringBuilder();
+                if (command == "Cat")
+                {
+                    var catName = animalInformation[0];
+                    int catAge = int.Parse(animalInformation[1]);
+                    var catGender = animalInformation[2];
 
-            sb.Append(dog.Name + Environment.NewLine);
-            sb.Append(dog.Age + Environment.NewLine);
-            sb.Append(dog.Gender + Environment.NewLine);
+                    Cat cat = new Cat(catName, catAge, catGender);
 
-            Console.WriteLine(sb.ToString());
+                    Console.WriteLine(cat.MakeNoise());
+                }
+                else if(command == "Dog")
+                {
+                    var dogName = animalInformation[0];
+                    var dogAge = int.Parse(animalInformation[1]);
+                    var dogGender = animalInformation[2];
 
-            Console.WriteLine(dog.MakeNoise());
+                    Dog dog = new Dog(dogName, dogAge, dogGender);
+                    
+                    Console.WriteLine(dog.MakeNoise());
+                }
+                else if(command == "Frog")
+                {
+                    var frogName = animalInformation[0];
+                    var frogAge = int.Parse(animalInformation[1]);
+                    var frogGender = animalInformation[2];
 
-            Cat cat = new Cat("Mariancho", 3, "Female");
+                    Frog frog = new Frog(frogName, frogAge, frogGender);
 
-            Console.WriteLine(cat.MakeNoise());
+                    Console.WriteLine(frog.MakeNoise());
+                }
+                command = Console.ReadLine();
 
-            Frog frog = new Frog("Kermit", 2, "Male");
-
-            Console.WriteLine(frog.MakeNoise());
-
-            Kitten kitten = new Kitten("Pepka", 1);
-
-            Console.WriteLine(kitten.MakeNoise());
-
-            Tomcat tomcat = new Tomcat("Chepi", 4);
-
-            Console.WriteLine(tomcat.MakeNoise());
+            }    
 
         }
     }
