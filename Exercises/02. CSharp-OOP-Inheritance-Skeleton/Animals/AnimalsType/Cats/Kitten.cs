@@ -2,10 +2,11 @@
 {
     public class Kitten : Cat
     {
-        private const string gender = "Female";
+
+        private const string kittenGender = "Female";
 
         public Kitten(string name, int age) 
-            : base(name, age, gender)
+            : base(name, age, kittenGender)
         {
         }
 

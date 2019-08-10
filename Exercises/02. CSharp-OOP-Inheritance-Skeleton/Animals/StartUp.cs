@@ -1,7 +1,6 @@
 ﻿namespace Animals
 {
     using System;
-    using System.Text;
     using Animals.AnimalsType;
     using Animals.AnimalsType.Cats;
 
@@ -9,44 +8,54 @@
     {
         public static void Main(string[] args)
         {
-            string command = Console.ReadLine();
-            
-            while (command != "Beast!")
+           
+
+            while (true)
             {
-                string[] animalInformation = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                string animalType = Console.ReadLine();
 
-                if (command == "Cat")
+                if(animalType == "Beast!")
                 {
-                    var catName = animalInformation[0];
-                    int catAge = int.Parse(animalInformation[1]);
-                    var catGender = animalInformation[2];
-
-                    Cat cat = new Cat(catName, catAge, catGender);
-
-                    Console.WriteLine(cat.MakeNoise());
+                    break;
                 }
-                else if(command == "Dog")
+
+                var animalInfo = Console.ReadLine().Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+                var animalName = animalInfo[0];
+                int animalAge;
+
+                bool ageParse = int.TryParse(animalInfo[1],out animalAge);
+                animalAge = ageParse != true ? -1 : animalAge;
+                var animalGender = animalInfo[2];
+
+                Animal animal = null;
+
+                switch (animalType)
                 {
-                    var dogName = animalInformation[0];
-                    var dogAge = int.Parse(animalInformation[1]);
-                    var dogGender = animalInformation[2];
+                    case "Cat":
+                        animal = new Cat(animalName, animalAge, animalGender);
+                        break;
+                    case "Dog":
+                        animal = new Dog(animalName, animalAge, animalGender);
+                        break;
+                    case "Frog":
+                        animal = new Frog(animalName, animalAge, animalGender);
+                        break;
+                    case "Kitten":
+                        animal = new Kitten(animalName,animalAge);
+                        break;
+                    case "Tomcat":
+                        animal = new Tomcat(animalName, animalAge);
+                        break;
 
-                    Dog dog = new Dog(dogName, dogAge, dogGender);
-                    
-                    Console.WriteLine(dog.MakeNoise());
                 }
-                else if(command == "Frog")
+
+                if(animal != null)
                 {
-                    var frogName = animalInformation[0];
-                    var frogAge = int.Parse(animalInformation[1]);
-                    var frogGender = animalInformation[2];
-
-                    Frog frog = new Frog(frogName, frogAge, frogGender);
-
-                    Console.WriteLine(frog.MakeNoise());
+                    Console.WriteLine(animal.MakeNoise());
                 }
-                command = Console.ReadLine();
-
+               
+                
             }    
 
         }
