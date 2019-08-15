@@ -14,7 +14,7 @@ namespace P05_FootballTeamGenerator.Models
         private int passing;
         private int shooting;
 
-        public Stat(int endurance, int spirint, int dribble, int passing, int shooting)
+        public Stat(int endurance, int sprint, int dribble, int passing, int shooting)
         {
             this.Endurance = endurance;
             this.Sprint = sprint;
@@ -31,7 +31,7 @@ namespace P05_FootballTeamGenerator.Models
             }
             private set
             {
-                ValidateStat(value, nameof(this.endurance));
+                ValidateStat(value, nameof(this.Endurance));
 
                 this.endurance = value;
             }
@@ -45,7 +45,7 @@ namespace P05_FootballTeamGenerator.Models
             }
             private set
             {
-                ValidateStat(value, nameof(this.sprint));
+                ValidateStat(value, nameof(this.Sprint));
 
                 this.sprint = value;
             }
@@ -59,7 +59,7 @@ namespace P05_FootballTeamGenerator.Models
             }
             private set
             {
-                ValidateStat(value, nameof(this.dribble));
+                ValidateStat(value, nameof(this.Dribble));
 
                 this.dribble = value;
             }
@@ -73,7 +73,7 @@ namespace P05_FootballTeamGenerator.Models
             }
             private set
             {
-                ValidateStat(value, nameof(this.passing));
+                ValidateStat(value, nameof(this.Passing));
 
                 this.passing = value;
             }
@@ -87,7 +87,7 @@ namespace P05_FootballTeamGenerator.Models
             }
             private set
             {
-                ValidateStat(value, nameof(this.shooting));
+                ValidateStat(value, nameof(this.Shooting));
 
                 this.shooting = value;
             }

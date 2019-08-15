@@ -17,7 +17,7 @@
         {
             get
             {
-                return this.Name;
+                return this.name;
             }
             set
             {
@@ -26,7 +26,7 @@
                     throw new ArgumentException(ExceptionMessages.EmptyNameException);
                 }
 
-                this.Name = value;
+                this.name = value;
             }
         }
 

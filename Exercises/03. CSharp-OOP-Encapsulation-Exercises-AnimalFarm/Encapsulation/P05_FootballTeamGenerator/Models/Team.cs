@@ -10,13 +10,13 @@
         private string name;
         private List<Player> players;
 
-        public Team()
+        private Team()
         {
             this.players = new List<Player>();
         }
 
         public Team(string name)
-            :this()
+            : this()
         {
             this.Name = name;
         }
@@ -25,21 +25,31 @@
         {
             get
             {
-                return this.Name;
+                return this.name;
             }
             set
             {
-                if (string.IsNullOrWhiteSpace(value))
+                if (String.IsNullOrWhiteSpace(value))
                 {
                     throw new ArgumentException(ExceptionMessages.EmptyNameException);
                 }
 
-                this.Name = value;
+                this.name = value;
             }
         }
+         
+        public int Rating
+        {
+            get
+            {
+                if (this.players.Count == 0)
+                {
+                    return 0;
+                }
 
-        public int Rating => (int)Math.Round((this.players.Average(p=>p.OverallSkill)), 0);
-
+                return (int)Math.Round((this.players.Average(p => p.OverallSkill)), 0);
+            }           
+        }
         public void AddPlayer(Player player)
         {
             this.players.Add(player);
@@ -56,5 +66,10 @@
 
             this.players.Remove(playerToRemove);
 ;        }
+
+        public override string ToString()
+        {
+            return $"{this.Name} - {this.Rating}";
+        }
     }
 }
