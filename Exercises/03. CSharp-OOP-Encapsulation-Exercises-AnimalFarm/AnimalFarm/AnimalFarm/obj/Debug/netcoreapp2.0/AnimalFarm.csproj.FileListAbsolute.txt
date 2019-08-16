@@ -9,3 +9,14 @@ D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulatio
 D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfo.cs
 D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.dll
 D:\C# Fundamentals\2018-Jan\CSharp-OOP-Basics\03. CSharp-OOP-Basics-Encapsulation\03. CSharp-OOP-Basics-Encapsulation-Exercises\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.pdb
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.deps.json
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.runtimeconfig.json
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.runtimeconfig.dev.json
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.dll
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp2.0\AnimalFarm.pdb
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.csprojAssemblyReference.cache
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfoInputs.cache
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.AssemblyInfo.cs
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.dll
+D:\Projects\SoftUni C# OOP\Exercises\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp2.0\AnimalFarm.pdb

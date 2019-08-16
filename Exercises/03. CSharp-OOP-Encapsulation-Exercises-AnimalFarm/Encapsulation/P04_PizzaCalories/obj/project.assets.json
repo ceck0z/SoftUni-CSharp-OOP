@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\Exercises\\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\\Encapsulation\\ClassBoxData\\P01_ClassBoxData.csproj",
-      "projectName": "P01_ClassBoxData",
-      "projectPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\\Encapsulation\\ClassBoxData\\P01_ClassBoxData.csproj",
+      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\Exercises\\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\\Encapsulation\\P04_PizzaCalories\\P04_PizzaCalories.csproj",
+      "projectName": "P04_PizzaCalories",
+      "projectPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\\Encapsulation\\P04_PizzaCalories\\P04_PizzaCalories.csproj",
       "packagesPath": "C:\\Users\\ceck0z\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\\Encapsulation\\ClassBoxData\\obj\\",
+      "outputPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\03. CSharp-OOP-Encapsulation-Exercises-AnimalFarm\\Encapsulation\\P04_PizzaCalories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

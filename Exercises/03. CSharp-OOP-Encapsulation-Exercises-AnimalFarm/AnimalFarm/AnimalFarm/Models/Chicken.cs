@@ -1,17 +1,20 @@
 ﻿namespace AnimalFarm.Models
 {
+    using AnimalFarm.Exceptions;
+    using System;
+
     public class Chicken
     {
-        public const int MinAge = 0;
-        public const int MaxAge = 15;
+        private const int MinAge = 0;
+        private const int MaxAge = 15;
 
-        protected string name;
-        internal int age;
+        private string name;
+        private int age;
 
         internal Chicken(string name, int age)
         {
-            this.name = name;
-            this.age = age;
+            this.Name = name;
+            this.Age = age;
         }
 
         public string Name
@@ -21,8 +24,13 @@
                 return this.name;
             }
 
-            internal set
+            protected set
             {
+                if (string.IsNullOrWhiteSpace(value) || value == string.Empty)
+                {
+                    throw new ArgumentException(ExceptionMessages.InvalidNameException);
+                }
+
                 this.name = value;
             }
         }
@@ -34,8 +42,13 @@
                 return this.age;
             }
 
-            protected set
+            internal set
             {
+                if (value < MinAge || value > MaxAge)
+                {
+                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidAgeException, MinAge, MaxAge));
+                }
+
                 this.age = value;
             }
         }
@@ -48,9 +61,9 @@
 			}
         }
 
-        public double CalculateProductPerDay()
+        private double CalculateProductPerDay()
         {
-            switch (this.Age)
+            switch (this.age)
             {
                 case 0:
                 case 1:
