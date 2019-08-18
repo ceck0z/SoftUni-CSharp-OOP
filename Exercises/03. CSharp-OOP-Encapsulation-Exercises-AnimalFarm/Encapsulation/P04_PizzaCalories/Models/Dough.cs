@@ -29,7 +29,7 @@
         {
             get
             {
-                return this.FlourType;
+                return this.flourType;
             }
             private set
             {
@@ -38,7 +38,7 @@
                     throw new ArgumentException(ExceptionMessages.InvalidDoughTypeException);
                 }
 
-                this.FlourType = value;
+                this.flourType = value;
             }
         }
 
@@ -46,7 +46,7 @@
         {
             get
             {
-                return this.BakingTechnique;
+                return this.bakingTechnique;
             }
             private set
             {
@@ -55,7 +55,7 @@
                     throw new ArgumentException(ExceptionMessages.InvalidDoughTypeException);
                 }
 
-                this.BakingTechnique = value;
+                this.bakingTechnique = value;
             }
         }
 
@@ -63,7 +63,7 @@
         {
             get
             {
-                return this.Weight;
+                return this.weight;
             }
             private set
             {
@@ -72,7 +72,7 @@
                     throw new ArgumentException(string.Format(ExceptionMessages.InvalidDoughWeightException, MinWeight, MaxWeight));
                 }
 
-                this.Weight = value;
+                this.weight = value;
             }
         }
 
