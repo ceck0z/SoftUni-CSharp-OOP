@@ -8,3 +8,4 @@ D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\I
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\PersonInfo\bin\Debug\netcoreapp2.1\PersonInfo.pdb
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.dll
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.pdb
+D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\PersonInfo\obj\Debug\netcoreapp2.1\PersonInfo.csprojAssemblyReference.cache
