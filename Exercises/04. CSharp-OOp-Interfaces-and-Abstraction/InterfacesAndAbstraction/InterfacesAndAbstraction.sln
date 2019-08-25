@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08_MilitaryElite", "P08_Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_BorderControl", "P05_BorderControl\P05_BorderControl.csproj", "{57AC2563-B7D5-4972-A250-475CFC8913B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_BirthdayCelebration", "P06_BirthdayCelebration\P06_BirthdayCelebration.csproj", "{F588A416-5EBD-4B9A-870B-E311C79121D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{57AC2563-B7D5-4972-A250-475CFC8913B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57AC2563-B7D5-4972-A250-475CFC8913B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57AC2563-B7D5-4972-A250-475CFC8913B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F588A416-5EBD-4B9A-870B-E311C79121D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F588A416-5EBD-4B9A-870B-E311C79121D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F588A416-5EBD-4B9A-870B-E311C79121D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F588A416-5EBD-4B9A-870B-E311C79121D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
