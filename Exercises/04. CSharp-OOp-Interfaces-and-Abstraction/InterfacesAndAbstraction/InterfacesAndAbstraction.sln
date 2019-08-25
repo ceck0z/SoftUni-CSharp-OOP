@@ -5,9 +5,13 @@ VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo", "PersonInfo\PersonInfo.csproj", "{D866359B-DE7B-47D3-BB98-E4C892C6CBDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Ferrari", "Ferrari\P03_Ferrari.csproj", "{818C010E-59EA-4DCC-BD05-B34D88CBA7C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_Ferrari", "Ferrari\P03_Ferrari.csproj", "{818C010E-59EA-4DCC-BD05-B34D88CBA7C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_Telephony", "P04_Telephony\P04_Telephony.csproj", "{EF443A61-8B9E-4B43-B3D4-CB85EE30181D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04_Telephony", "P04_Telephony\P04_Telephony.csproj", "{EF443A61-8B9E-4B43-B3D4-CB85EE30181D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P08_MilitaryElite", "P08_MilitaryElite\P08_MilitaryElite.csproj", "{1C2A62CD-7BC4-41DE-B1BF-C5A33396A543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_BorderControl", "P05_BorderControl\P05_BorderControl.csproj", "{025AEBB1-8B5B-4386-BFAC-9ED77BC5D9DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{EF443A61-8B9E-4B43-B3D4-CB85EE30181D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF443A61-8B9E-4B43-B3D4-CB85EE30181D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF443A61-8B9E-4B43-B3D4-CB85EE30181D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2A62CD-7BC4-41DE-B1BF-C5A33396A543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2A62CD-7BC4-41DE-B1BF-C5A33396A543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2A62CD-7BC4-41DE-B1BF-C5A33396A543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2A62CD-7BC4-41DE-B1BF-C5A33396A543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025AEBB1-8B5B-4386-BFAC-9ED77BC5D9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025AEBB1-8B5B-4386-BFAC-9ED77BC5D9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025AEBB1-8B5B-4386-BFAC-9ED77BC5D9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025AEBB1-8B5B-4386-BFAC-9ED77BC5D9DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
