@@ -8,3 +8,4 @@ D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\I
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.AssemblyInfo.cs
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.dll
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.pdb
+D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\P05_BorderControl\obj\Debug\netcoreapp2.1\P05_BorderControl.csprojAssemblyReference.cache

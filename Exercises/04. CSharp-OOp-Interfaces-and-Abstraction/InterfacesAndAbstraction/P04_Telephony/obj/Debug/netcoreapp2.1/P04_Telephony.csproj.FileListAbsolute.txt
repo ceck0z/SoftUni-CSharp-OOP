@@ -8,3 +8,4 @@ D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\I
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.AssemblyInfo.cs
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.dll
 D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.pdb
+D:\Projects\SoftUni C# OOP\Exercises\04. CSharp-OOp-Interfaces-and-Abstraction\InterfacesAndAbstraction\P04_Telephony\obj\Debug\netcoreapp2.1\P04_Telephony.csprojAssemblyReference.cache
