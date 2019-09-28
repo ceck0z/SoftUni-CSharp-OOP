@@ -81,7 +81,7 @@
 
             string name = animalArgs[1];
 
-            double weight = double.Parse(animalArgs[2]);
+            //double weight = double.Parse(animalArgs[2]);
 
             Animal animal;
 

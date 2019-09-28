@@ -8,3 +8,4 @@ D:\Projects\SoftUni C# OOP\Exercises\05. CSharp-OOP-Polymorphism\Polymorphism\P0
 D:\Projects\SoftUni C# OOP\Exercises\05. CSharp-OOP-Polymorphism\Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.AssemblyInfo.cs
 D:\Projects\SoftUni C# OOP\Exercises\05. CSharp-OOP-Polymorphism\Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.dll
 D:\Projects\SoftUni C# OOP\Exercises\05. CSharp-OOP-Polymorphism\Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.pdb
+D:\Projects\SoftUni C# OOP\Exercises\05. CSharp-OOP-Polymorphism\Polymorphism\P03_WildFarm\obj\Debug\netcoreapp2.1\P03_WildFarm.csprojAssemblyReference.cache
