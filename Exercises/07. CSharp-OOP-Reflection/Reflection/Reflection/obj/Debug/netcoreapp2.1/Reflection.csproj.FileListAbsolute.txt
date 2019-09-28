@@ -8,3 +8,4 @@ D:\Projects\SoftUni C# OOP\Exercises\07. CSharp-OOP-Reflection\Reflection\Reflec
 D:\Projects\SoftUni C# OOP\Exercises\07. CSharp-OOP-Reflection\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.AssemblyInfo.cs
 D:\Projects\SoftUni C# OOP\Exercises\07. CSharp-OOP-Reflection\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.dll
 D:\Projects\SoftUni C# OOP\Exercises\07. CSharp-OOP-Reflection\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.pdb
+D:\Projects\SoftUni C# OOP\Exercises\07. CSharp-OOP-Reflection\Reflection\Reflection\obj\Debug\netcoreapp2.1\Reflection.csprojAssemblyReference.cache

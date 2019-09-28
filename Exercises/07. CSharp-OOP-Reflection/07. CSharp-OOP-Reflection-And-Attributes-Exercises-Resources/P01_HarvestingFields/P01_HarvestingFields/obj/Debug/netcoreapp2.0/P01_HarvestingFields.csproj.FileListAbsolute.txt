@@ -1,0 +1,10 @@
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.deps.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.runtimeconfig.dev.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\bin\Debug\netcoreapp2.0\P01_HarvestingFields.pdb
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.csproj.CoreCompileInputs.cache
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfoInputs.cache
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.AssemblyInfo.cs
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.dll
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P01_HarvestingFields\P01_HarvestingFields\obj\Debug\netcoreapp2.0\P01_HarvestingFields.pdb

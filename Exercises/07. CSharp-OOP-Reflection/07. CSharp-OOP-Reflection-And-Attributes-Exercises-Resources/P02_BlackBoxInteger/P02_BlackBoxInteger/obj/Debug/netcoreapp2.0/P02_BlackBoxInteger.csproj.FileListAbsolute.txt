@@ -1,0 +1,10 @@
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P02_BlackBoxInteger\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb

@@ -1,0 +1,10 @@
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.deps.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.runtimeconfig.dev.json
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\bin\Debug\netcoreapp2.0\P03_BarraksWars.pdb
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.csproj.CoreCompileInputs.cache
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfoInputs.cache
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.AssemblyInfo.cs
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.dll
+C:\Users\ceck0z\Desktop\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\P03_BarraksWars\P03_BarraksWars\obj\Debug\netcoreapp2.0\P03_BarraksWars.pdb

@@ -32,8 +32,7 @@ namespace Reflection
             var allMethods = firstPersonType.GetMethods(BindingFlags.Instance | BindingFlags.NonPublic);
 
             var property = firstPersonType.GetProperty("Age");
-             
-
+            
             Console.WriteLine();
         }
     }
