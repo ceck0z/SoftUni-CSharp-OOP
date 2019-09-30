@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ceck0z\\Desktop\\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\\P01_HarvestingFields\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
+      "projectUniqueName": "D:\\Projects\\SoftUni C# OOP\\Exercises\\07. CSharp-OOP-Reflection\\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\\P01_HarvestingFields\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
       "projectName": "P01_HarvestingFields",
-      "projectPath": "C:\\Users\\ceck0z\\Desktop\\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\\P01_HarvestingFields\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
+      "projectPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\07. CSharp-OOP-Reflection\\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\\P01_HarvestingFields\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
       "packagesPath": "C:\\Users\\ceck0z\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ceck0z\\Desktop\\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\\P01_HarvestingFields\\P01_HarvestingFields\\obj\\",
+      "outputPath": "D:\\Projects\\SoftUni C# OOP\\Exercises\\07. CSharp-OOP-Reflection\\07. CSharp-OOP-Reflection-And-Attributes-Exercises-Resources\\P01_HarvestingFields\\P01_HarvestingFields\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
