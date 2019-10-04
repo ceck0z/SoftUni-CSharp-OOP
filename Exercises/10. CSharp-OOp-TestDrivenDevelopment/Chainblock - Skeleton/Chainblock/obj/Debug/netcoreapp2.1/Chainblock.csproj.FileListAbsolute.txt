@@ -1,0 +1,21 @@
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.deps.json
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.json
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.dev.json
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.dll
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.pdb
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csprojAssemblyReference.cache
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfoInputs.cache
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfo.cs
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.dll
+D:\Training\C Sharp Projects\SoftUni\Test Driven Developement\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.pdb
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.deps.json
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.json
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.dev.json
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.dll
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.pdb
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csprojAssemblyReference.cache
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csproj.CoreCompileInputs.cache
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfoInputs.cache
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfo.cs
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.dll
+D:\Projects\SoftUni C# OOP\Exercises\10. CSharp-OOp-TestDrivenDevelopment\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.pdb
